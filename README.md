@@ -1,4 +1,8 @@
-# Canadian-Lotteries
+# Canadian-Lottery-Economics
+Purpose: Analyze lottery demand and expected return for top three Canadian lotteries at different Jackpot values.
+
+### Description:
+
 🚨🚨🚨 Big flashing lights that shine $70 million. This scene repeats in supermarkets, convenience stores, and even pharmacies. Everyone has dreamed of winning the lottery, but how many people pursue this crime of passion?
 
 💰 This project aims to evaluate the estimated revenues of Canadian lotteries, their payouts, and the number of tickets sold over time amongst the top 3 lotteries: LottoMax, Lotto 6/49, and the Daily Grand.
