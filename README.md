@@ -1,5 +1,6 @@
 # Canadian-Lottery-Economics
-Purpose: Analyze lottery demand and expected return for top three Canadian lotteries at different Jackpot values.
+### Purpose: 
+Analyze lottery demand and expected return for top three Canadian lotteries at different Jackpot values.
 
 ### Description:
 
