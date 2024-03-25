@@ -1,4 +1,4 @@
-# Canadian-Lottery-Playbook - A Study on Maximizing Expected Returns / Historical Lottery Demand
+# Canadian-Lottery-Playbook - A Study on Maximizing Expected Returns & Understanding Historical Lottery Demand
 ### Purpose: 
 Analyze lottery demand and expected return for top three Canadian lotteries at different Jackpot values.
 
