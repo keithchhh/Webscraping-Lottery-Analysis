@@ -1,4 +1,4 @@
-# Canadian-Lottery-Economics - Maximizing Expected Returns & Understanding Historical Lottery Demand
+# Canadian-Lottery-Playbook - Maximizing Expected Returns & Understanding Historical Lottery Demand
 ### Purpose: 
 Analyze lottery demand and expected return for top three Canadian lotteries at different Jackpot values.
 
@@ -38,9 +38,13 @@ Looking at the graph, we can see that even if an individual lives for 80 years, 
 ![image](https://github.com/keithchhh/Canadian-Lottery-Economics/assets/145700071/a0fe7727-ef04-48bc-8dc1-1c9dc2ea2aba)
 
 #### Lotto649 Expected Value
+Prize per Winner for different lottery amounts
+
 ![image](https://github.com/keithchhh/Canadian-Lottery-Economics/assets/145700071/9e1ee422-2858-4e5e-8d63-68965d52824d)
 
 #### LottoMAX Expected Value
+Prize per Winner for different lottery amounts
+
 ![image](https://github.com/keithchhh/Canadian-Lottery-Economics/assets/145700071/50b023e2-d844-4c68-8abf-dece2fae46b2)
 
 #### DailyGrand Expected Value
